@@ -17,6 +17,19 @@ https://app.powerbi.com/view?r=eyJrIjoiZTlkNGQxN2EtZGNmZi00ZDk2LWFiYTgtMTU4NDczN
 
 ---
 
+##  Project Architecture
+
+1. Simulated clinical data generated using SQL  
+2. Data quality issues corrected and standardized  
+3. Column-level profiling performed for validation  
+4. Business-ready reporting view created for Power BI  
+5. Semantic model built using relationships and DAX  
+6. Interactive dashboards published to Power BI Service  
+
+---
+
+---
+
 ##  Project Overview
 This project presents an interactive **Healthcare Readmissions Dashboard** built using **Power BI**, **SQL**, and **DAX**.  
 The dashboard analyzes hospital-level clinical data to identify trends in **readmissions, admissions, infections, and mortality**, helping stakeholders make data-driven healthcare decisions.
@@ -65,6 +78,18 @@ The dashboard analyzes hospital-level clinical data to identify trends in **read
 - Published the report to Power BI Service and enabled secure sharing
 - Created a reporting view to control column exposure and enforce data governance
 - Designed a semantic reporting layer using SQL views to separate raw and business-ready data
+  
+---
+
+##  Repository Structure
+
+- `01_data_generation.sql` – Simulated healthcare data creation  
+- `02_data_cleanup_date_correction.sql` – Data standardization and cleanup  
+- `03_data_profiling.sql` – Automated data profiling and quality checks  
+- `04_reporting_view.sql` – Business-ready reporting view for Power BI  
+- `README.md` – Project documentation  
+- `HospitalAnalysis.png` – Hospital-level dashboard preview  
+- `AnalysisByYear.png` – Year-wise trend analysis dashboard
   
 ---
 
