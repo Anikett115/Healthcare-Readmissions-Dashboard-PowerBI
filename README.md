@@ -75,6 +75,14 @@ The dashboard analyzes hospital-level clinical data to identify trends in **read
 
 ---
 
+### 📊 Data Profiling & Quality Checks
+- Automated column-level profiling using dynamic SQL
+- Computed statistical metrics (min, max, mean, median, mode, SD)
+- Identified nulls, zero values, and data distribution patterns
+- Used metadata-driven logic to profile all columns generically
+
+---
+
 ##  Dataset
 - Simulated healthcare clinical data
 - Includes hospital ID, admission dates, readmissions, infections, deaths, and length of stay
