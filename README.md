@@ -63,6 +63,8 @@ The dashboard analyzes hospital-level clinical data to identify trends in **read
 - Created DAX measures for KPIs such as readmission rate, total admissions, and mortality
 - Designed interactive dashboards with slicers and drill-downs
 - Published the report to Power BI Service and enabled secure sharing
+- Created a reporting view to control column exposure and enforce data governance
+- Designed a semantic reporting layer using SQL views to separate raw and business-ready data
   
 ---
 
