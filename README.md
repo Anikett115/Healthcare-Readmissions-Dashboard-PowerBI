@@ -75,7 +75,7 @@ The dashboard analyzes hospital-level clinical data to identify trends in **read
 
 ---
 
-### 📊 Data Profiling & Quality Checks
+###  Data Profiling & Quality Checks
 - Automated column-level profiling using dynamic SQL
 - Computed statistical metrics (min, max, mean, median, mode, SD)
 - Identified nulls, zero values, and data distribution patterns
