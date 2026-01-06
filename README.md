@@ -1,13 +1,25 @@
 # 🏥 Healthcare Readmissions Dashboard – Power BI
 
-## 📌 Project Overview
-This project presents an interactive **Healthcare Readmissions Dashboard** built using **Power BI**, **SQL**, and **DAX**.  
-The dashboard analyzes hospital-level clinical data to identify trends in **readmissions, admissions, infections, and mortality**, helping stakeholders make data-driven healthcare decisions.
+## 🎯 Business Problem
+
+Hospitals face significant financial and operational challenges due to high patient readmission rates.  
+Unplanned readmissions increase healthcare costs, strain hospital resources, and often indicate gaps in care quality.
+
+This project aims to:
+- Identify hospitals with unusually high readmissions
+- Analyze relationships between infections, admissions, and mortality
+- Track year-over-year trends to support healthcare policy and operational decisions
 
 ---
 
-## 🎯 Business Objective
-To analyze hospital readmission patterns and identify trends in infections, admissions, and mortality that can help healthcare stakeholders improve operational efficiency and patient outcomes.
+🔗 **Live Interactive Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiZTlkNGQxN2EtZGNmZi00ZDk2LWFiYTgtMTU4NDczNjM0NjdlIiwidCI6IjIwMDE0NzcwLTM3YWEtNDQ1ZC04MTNkLTVlNjhmMTI3MTgyYyJ9
+
+---
+
+## 📌 Project Overview
+This project presents an interactive **Healthcare Readmissions Dashboard** built using **Power BI**, **SQL**, and **DAX**.  
+The dashboard analyzes hospital-level clinical data to identify trends in **readmissions, admissions, infections, and mortality**, helping stakeholders make data-driven healthcare decisions.
 
 ---
 
@@ -44,6 +56,16 @@ To analyze hospital readmission patterns and identify trends in infections, admi
 
 ---
 
+## 🛠️ What I Did
+
+- Designed and populated a simulated healthcare dataset using SQL
+- Performed data cleaning and transformations in Power Query
+- Created DAX measures for KPIs such as readmission rate, total admissions, and mortality
+- Designed interactive dashboards with slicers and drill-downs
+- Published the report to Power BI Service and enabled secure sharing
+  
+---
+
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop & Power BI Service**
 - **SQL Server**
@@ -64,13 +86,14 @@ To analyze hospital readmission patterns and identify trends in infections, admi
 - Hospitals with higher infection counts tend to show higher readmission rates
 - Certain hospitals consistently outperform others in managing readmissions
 - Specific years show spikes in admissions and mortality, indicating possible policy or operational changes
-
+  
 ---
 
-## 🌐 Live Dashboard
-🔗 **Power BI Service Link:**  
-https://app.powerbi.com/view?r=eyJrIjoiZTlkNGQxN2EtZGNmZi00ZDk2LWFiYTgtMTU4NDczNjM0NjdlIiwidCI6IjIwMDE0NzcwLTM3YWEtNDQ1ZC04MTNkLTVlNjhmMTI3MTgyYyJ9
+## 💼 Business Impact
 
+- Enables hospital administrators to identify high-risk hospitals and focus on quality improvement initiatives
+- Supports data-driven decisions to reduce readmissions, optimize resource utilization, and improve patient outcomes
+  
 ---
 
 ## 📸 Dashboard Preview
