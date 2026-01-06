@@ -7,6 +7,11 @@ The dashboard analyzes hospital-level clinical data to identify trends in **read
 ---
 
 ## 🎯 Business Objective
+To analyze hospital readmission patterns and identify trends in infections, admissions, and mortality that can help healthcare stakeholders improve operational efficiency and patient outcomes.
+
+---
+
+## 🎯 Business Objective
 - Identify hospitals with high readmission rates
 - Analyze infection trends and their impact on readmissions
 - Track yearly patterns in admissions and mortality
