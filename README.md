@@ -71,10 +71,10 @@ https://app.powerbi.com/view?r=eyJrIjoiZTlkNGQxN2EtZGNmZi00ZDk2LWFiYTgtMTU4NDczN
 ## 📸 Dashboard Preview
 
 ### 🏥 Hospital Analysis
-![Hospital Analysis](screenshots/hospital_analysis.png)
+![Hospital Analysis](HospitalAnalysis%20(2).png)
 
 ### 📊 Analysis by Year
-![Analysis by Year](screenshots/analysis_by_year.png)
+![Analysis by Year](AnalysisByYear%20(2).png)
 
 ---
 
